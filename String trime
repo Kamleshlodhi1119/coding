@@ -10,3 +10,7 @@ import java.lang.*;
  String k= cam.trim();
   System.out.println(k); }
 }
+
+
+
+
