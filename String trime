@@ -1,0 +1,12 @@
+import java.util.Scanner;
+import java.lang.*;
+
+
+ public class Program
+{
+    public static void main(String[] args) {
+         Scanner sc=new Scanner(System.in);
+         String  cam = sc.nextLine();
+ String k= cam.trim();
+  System.out.println(k); }
+}
